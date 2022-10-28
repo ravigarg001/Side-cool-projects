@@ -1,0 +1,1921 @@
+<!DOCTYPE html>
+<html class="html" lang="en-US">
+<head>
+<!-- Google Tag Manager -->
+
+<!-- Google tag (gtag.js) -->
+
+
+<!-- End Google Tag Manager -->
+
+<link href="https://gmpg.org/xfn/11" rel="profile"/>
+
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v19.2.1 (Yoast SEO v19.9) - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Bhartipur - Sabse Tez Sabse Sateek</title>
+
+<link href="https://bhartipur.in/" rel="canonical"/>
+<link href="https://bhartipur.in/page/2/" rel="next"/>
+
+
+
+
+
+
+
+
+<!-- / Yoast SEO Premium plugin. -->
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://bhartipur.in/feed/" rel="alternate" title="Bhartipur » Feed" type="application/rss+xml"/>
+<link href="https://bhartipur.in/comments/feed/" rel="alternate" title="Bhartipur » Comments Feed" type="application/rss+xml"/>
+
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://bhartipur.in/wp-content/plugins/gtranslate/gtranslate-style24.css?ver=6.0.3" id="gtranslate-style-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/formidable/css/formidableforms.css?ver=9121122" id="formidable-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/css/all.min.css?ver=1664882658" id="atomic-blocks-fontawesome-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/wp-event-manager/assets/css/frontend.min.css?ver=6.0.3" id="wp-event-manager-frontend-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/wp-event-manager/assets/js/jquery-ui-daterangepicker/jquery.comiseo.daterangepicker.css?ver=6.0.3" id="wp-event-manager-jquery-ui-daterangepicker-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/wp-event-manager/assets/js/jquery-ui-daterangepicker/styles.css?ver=6.0.3" id="wp-event-manager-jquery-ui-daterangepicker-style-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/wp-event-manager/assets/js/jquery-ui/jquery-ui.css?ver=6.0.3" id="wp-event-manager-jquery-ui-css-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/wp-event-manager/assets/css/wpem-grid.min.css?ver=6.0.3" id="wp-event-manager-grid-style-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/wp-event-manager/assets/fonts/style.css?ver=6.0.3" id="wp-event-manager-font-style-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3" id="wp-block-library-css" media="all" rel="stylesheet"/>
+<style id="wp-block-library-theme-inline-css">
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}
+</style>
+<link href="https://bhartipur.in/wp-content/plugins/atomic-blocks/dist/blocks.style.build.css?ver=1664882658" id="atomic-blocks-style-css-css" media="all" rel="stylesheet"/>
+<style id="global-styles-inline-css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--very-light-gray: #eeeeee;--wp--preset--color--very-dark-gray: #313131;--wp--preset--color--kb-palette-2: #888888;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link href="https://bhartipur.in/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.3" id="contact-form-7-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/counter-number-showcase/assets/css/font-awesome/css/font-awesome.min.css?ver=6.0.3" id="wpsm_counter-font-awesome-front-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/counter-number-showcase/assets/css/bootstrap-front.css?ver=6.0.3" id="wpsm_counter_bootstrap-front-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/counter-number-showcase/assets/css/counter-column.css?ver=6.0.3" id="wpsm_counter_column-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/flexible-table-block/build/style-index.css?ver=1665482072" id="flexible-table-block-css" media="all" rel="stylesheet"/>
+<style id="flexible-table-block-inline-css">
+.wp-block-flexible-table-block-table.wp-block-flexible-table-block-table>table{width:100%;border-collapse:collapse;}.wp-block-flexible-table-block-table.wp-block-flexible-table-block-table.is-style-stripes tr:nth-child(odd) th{background-color:#abb8c3;}.wp-block-flexible-table-block-table.wp-block-flexible-table-block-table.is-style-stripes tr:nth-child(odd) td{background-color:#abb8c3;}.wp-block-flexible-table-block-table.wp-block-flexible-table-block-table.is-style-stripes tr:nth-child(even) th{background-color:#ffffff;}.wp-block-flexible-table-block-table.wp-block-flexible-table-block-table.is-style-stripes tr:nth-child(even) td{background-color:#ffffff;}.wp-block-flexible-table-block-table.wp-block-flexible-table-block-table>table tr th,.wp-block-flexible-table-block-table.wp-block-flexible-table-block-table>table tr td{padding:0.5em;border-width:1px;border-style:solid;border-color:#000000;text-align:center;vertical-align:middle;}.wp-block-flexible-table-block-table.wp-block-flexible-table-block-table>table tr th{color:#ffffff;background-color:#942a45;}.wp-block-flexible-table-block-table.wp-block-flexible-table-block-table>table tr td{background-color:#ffffff;}@media screen and (min-width:769px){.wp-block-flexible-table-block-table.is-scroll-on-pc{overflow-x:scroll;}.wp-block-flexible-table-block-table.is-scroll-on-pc table{max-width:none;align-self:self-start;}}@media screen and (max-width:768px){.wp-block-flexible-table-block-table.is-scroll-on-mobile{overflow-x:scroll;}.wp-block-flexible-table-block-table.is-scroll-on-mobile table{max-width:none;align-self:self-start;}.wp-block-flexible-table-block-table table.is-stacked-on-mobile th,.wp-block-flexible-table-block-table table.is-stacked-on-mobile td{width:100%!important;display:block;}}
+</style>
+<link href="https://bhartipur.in/wp-content/plugins/wp-event-manager/assets/js/jquery-timepicker/jquery.timepicker.min.css?ver=6.0.3" id="wp-event-manager-jquery-timepicker-css-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.15.1" id="font-awesome-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0" id="simple-line-icons-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/themes/oceanwp/assets/css/style.min.css?ver=3.3.4" id="oceanwp-style-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0" id="elementor-icons-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.7.7" id="elementor-frontend-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/uploads/elementor/css/post-6.css?ver=1665553279" id="elementor-post-6-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.7.7" id="elementor-pro-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/uploads/elementor/css/global.css?ver=1665553280" id="elementor-global-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/uploads/elementor/css/post-15.css?ver=1666946889" id="elementor-post-15-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/uploads/elementor/css/post-5226.css?ver=1665575076" id="elementor-post-5226-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/uploads/elementor/css/post-2636.css?ver=1666095279" id="elementor-post-2636-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/uploads/elementor/css/post-4730.css?ver=1665575852" id="elementor-post-4730-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.2.4" id="eael-general-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=6.0.3" id="oe-widgets-style-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/uploads/oceanwp/custom-style.css?ver=6.0.3" id="oceanwp-custom-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/ele-custom-skin/assets/css/ecs-style.css?ver=3.1.7" id="ecs-styles-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/uploads/elementor/css/post-1215.css?ver=1664880895" id="elementor-post-1215-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/uploads/elementor/css/post-1979.css?ver=1664020936" id="elementor-post-1979-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/uploads/elementor/css/post-2226.css?ver=1661539464" id="elementor-post-2226-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/uploads/oceanwp-webfonts-css/f5d929c0e09586ae03609c6f456beec5.css" id="google-fonts-1-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3" id="elementor-icons-shared-0-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3" id="elementor-icons-fa-brands-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3" id="elementor-icons-fa-solid-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/filter-everything-pro/assets/css/filter-everything.min.css?ver=1.6.8" id="wpc-filter-everything-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/uploads/cache/filter-everything/0a1dd16b09edfc7accb0e77bdda0f35d.css?ver=6.0.3" id="wpc-filter-everything-custom-css" media="all" rel="stylesheet"/>
+<style id="kadence_blocks_palette_css">:root .has-kb-palette-2-color{color:#888888}:root .has-kb-palette-2-background-color{background-color:#888888}</style>
+
+
+
+
+
+
+<link href="https://bhartipur.in/wp-json/" rel="https://api.w.org/"/><link href="https://bhartipur.in/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://bhartipur.in/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+
+
+<link href="https://bhartipur.in/wp-content/uploads/2022/06/cropped-BHARTIPUR-LOGO-32x32.png" rel="icon" sizes="32x32"/>
+<link href="https://bhartipur.in/wp-content/uploads/2022/06/cropped-BHARTIPUR-LOGO-192x192.png" rel="icon" sizes="192x192"/>
+<link href="https://bhartipur.in/wp-content/uploads/2022/06/cropped-BHARTIPUR-LOGO-180x180.png" rel="apple-touch-icon"/>
+
+</head>
+<body class="home blog wp-embed-responsive oceanwp-theme dropdown-mobile default-breakpoint content-full-width content-max-width page-header-disabled has-breadcrumbs has-blog-grid has-fixed-footer oceanwp wpc_show_open_close_button elementor-default elementor-template-full-width elementor-kit-6 elementor-page-2636" data-rsssl="1">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-KKD763N" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr tablevalues="0 0.49803921568627" type="table"></fefuncr><fefuncg tablevalues="0 0.49803921568627" type="table"></fefuncg><fefuncb tablevalues="0 0.49803921568627" type="table"></fefuncb><fefunca tablevalues="1 1" type="table"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr tablevalues="0 1" type="table"></fefuncr><fefuncg tablevalues="0 1" type="table"></fefuncg><fefuncb tablevalues="0 1" type="table"></fefuncb><fefunca tablevalues="1 1" type="table"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr tablevalues="0.54901960784314 0.98823529411765" type="table"></fefuncr><fefuncg tablevalues="0 1" type="table"></fefuncg><fefuncb tablevalues="0.71764705882353 0.25490196078431" type="table"></fefuncb><fefunca tablevalues="1 1" type="table"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr tablevalues="0 1" type="table"></fefuncr><fefuncg tablevalues="0 0.27843137254902" type="table"></fefuncg><fefuncb tablevalues="0.5921568627451 0.27843137254902" type="table"></fefuncb><fefunca tablevalues="1 1" type="table"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr tablevalues="0 0" type="table"></fefuncr><fefuncg tablevalues="0 0.64705882352941" type="table"></fefuncg><fefuncb tablevalues="0 1" type="table"></fefuncb><fefunca tablevalues="1 1" type="table"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr tablevalues="0.78039215686275 1" type="table"></fefuncr><fefuncg tablevalues="0 0.94901960784314" type="table"></fefuncg><fefuncb tablevalues="0.35294117647059 0.47058823529412" type="table"></fefuncb><fefunca tablevalues="1 1" type="table"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr tablevalues="0.65098039215686 0.40392156862745" type="table"></fefuncr><fefuncg tablevalues="0 1" type="table"></fefuncg><fefuncb tablevalues="0.44705882352941 0.4" type="table"></fefuncb><fefunca tablevalues="1 1" type="table"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr tablevalues="0.098039215686275 1" type="table"></fefuncr><fefuncg tablevalues="0 0.66274509803922" type="table"></fefuncg><fefuncb tablevalues="0.84705882352941 0.41960784313725" type="table"></fefuncb><fefunca tablevalues="1 1" type="table"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg>
+<div class="site clr" id="outer-wrap">
+<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+<div class="clr" id="wrap">
+<header class="clr" data-height="25" id="site-header" role="banner">
+<div class="elementor elementor-15 elementor-location-header" data-elementor-id="15" data-elementor-type="header">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-1d9c1c5 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="1d9c1c5" data-particle-mobile-disabled="false" data-particle_enable="false" data-settings='{"stretch_section":"section-stretched"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5b513e5" data-element_type="column" data-id="5b513e5">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-85b26a4 elementor-widget__width-auto elementor-widget elementor-widget-image" data-element_type="widget" data-id="85b26a4" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<style>/*! elementor - v3.7.7 - 20-09-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style> <a href="https://bhartipur.in">
+<img alt="BHARTIPUR LOGO" class="attachment-full size-full" height="768" loading="lazy" sizes="(max-width: 2423px) 100vw, 2423px" src="https://bhartipur.in/wp-content/uploads/2022/06/BHARTIPUR-COMPRESSED.webp" srcset="https://bhartipur.in/wp-content/uploads/2022/06/BHARTIPUR-COMPRESSED.webp 2423w, https://bhartipur.in/wp-content/uploads/2022/06/BHARTIPUR-COMPRESSED-300x95.webp 300w, https://bhartipur.in/wp-content/uploads/2022/06/BHARTIPUR-COMPRESSED-1024x325.webp 1024w, https://bhartipur.in/wp-content/uploads/2022/06/BHARTIPUR-COMPRESSED-768x243.webp 768w, https://bhartipur.in/wp-content/uploads/2022/06/BHARTIPUR-COMPRESSED-1536x487.webp 1536w, https://bhartipur.in/wp-content/uploads/2022/06/BHARTIPUR-COMPRESSED-2048x649.webp 2048w" width="2423"/> </a>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-ec2d713" data-element_type="column" data-id="ec2d713">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-eb4dfbb elementor-search-form--skin-minimal elementor-widget elementor-widget-search-form" data-element_type="widget" data-id="eb4dfbb" data-settings='{"skin":"minimal"}' data-widget_type="search-form.default">
+<div class="elementor-widget-container">
+<link href="https://bhartipur.in/wp-content/plugins/elementor-pro/assets/css/widget-theme-elements.min.css" rel="stylesheet"/> <form action="https://bhartipur.in" class="elementor-search-form" method="get" role="search">
+<div class="elementor-search-form__container">
+<div class="elementor-search-form__icon">
+<i aria-hidden="true" class="fas fa-search"></i> <span class="elementor-screen-only">Search</span>
+</div>
+<input class="elementor-search-form__input" name="s" placeholder="Search..." title="Search" type="search" value=""/>
+</div>
+</form>
+</div>
+</div>
+<div class="elementor-element elementor-element-416ad90 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-search-form--skin-minimal elementor-widget elementor-widget-search-form" data-element_type="widget" data-id="416ad90" data-settings='{"skin":"minimal"}' data-widget_type="search-form.default">
+<div class="elementor-widget-container">
+<form action="https://bhartipur.in" class="elementor-search-form" method="get" role="search">
+<div class="elementor-search-form__container">
+<div class="elementor-search-form__icon">
+<i aria-hidden="true" class="fas fa-search"></i> <span class="elementor-screen-only">Search</span>
+</div>
+<input class="elementor-search-form__input" name="s" placeholder="Search Exams" title="Search" type="search" value=""/>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</header><!-- #site-header -->
+<main class="site-main clr" id="main" role="main">
+<div class="elementor elementor-2636 elementor-location-archive" data-elementor-id="2636" data-elementor-type="archive">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-3081682 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="3081682" data-particle-mobile-disabled="false" data-particle_enable="false" data-settings='{"stretch_section":"section-stretched"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-692b86e" data-element_type="column" data-id="692b86e">
+<div class="elementor-widget-wrap elementor-element-populated">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-8a45ada elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="8a45ada" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-633e8d0" data-element_type="column" data-id="633e8d0">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-4dbcc38 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="4dbcc38" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<style>/*! elementor - v3.7.7 - 20-09-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">Search Job Alerts and News</h1> </div>
+</div>
+<div class="elementor-element elementor-element-4661fd5 elementor-widget elementor-widget-wp-widget-wpc_filters_widget" data-element_type="widget" data-id="4661fd5" data-widget_type="wp-widget-wpc_filters_widget.default">
+<div class="elementor-widget-container">
+<div class="wpc-filters-widget-main-wrapper wpc-filter-set-295" data-set="295">
+<div class="wpc-filters-open-button-container wpc-open-button-295">
+<a class="wpc-open-close-filters-button" data-wid="295" href="javascript:void(0);"><span class="wpc-button-inner"> <span class="wpc-icon-html-wrapper">
+<span class="wpc-icon-line-1"></span>
+<span class="wpc-icon-line-2"></span>
+<span class="wpc-icon-line-3"></span>
+</span>
+<span class="wpc-filters-button-text">Filters</span></span></a>
+</div><div class="wpc-spinner"></div><div class="wpc-filters-widget-content"><div class="wpc-widget-close-container">
+<a class="wpc-widget-close-icon">
+<span class="wpc-icon-html-wrapper">
+<span class="wpc-icon-line-1"></span><span class="wpc-icon-line-2"></span><span class="wpc-icon-line-3"></span>
+</span>
+</a><span class="wpc-widget-popup-title">Filters</span></div><div class="wpc-filters-widget-containers-wrapper">
+<div class="wpc-filters-widget-top-container"><div class="wpc-widget-top-inside"><div class="wpc-inner-widget-chips-wrapper"><ul class="wpc-filter-chips-list wpc-filter-chips-295 wpc-empty-chips-container" data-set="295">
+</ul></div></div></div><div class="wpc-filters-scroll-container"><div class="wpc-filters-widget-wrapper">
+<div class="wpc-filters-section wpc-filters-section-2224 wpc-filter-months_selection wpc-filter-taxonomy wpc-filter-layout-dropdown" data-fid="2224">
+<div class="wpc-filter-header">
+<div class="widget-title wpc-filter-title">
+            Months        </div>
+</div>
+<div class="wpc-filter-content wpc-filter-months_selection">
+<select aria-label="wpc-taxonomy-months_selection-2224" class="wpc-filters-widget-select" id="wpc-taxonomy-months_selection-2224">
+<option class="wpc-dropdown-default" data-wpc-link="https://bhartipur.in/" id="wpc-option-taxonomy-months_selection-0" value="0">- Select Months -</option>
+<option class="wpc-term-count-5 wpc-term-id-85" data-wpc-link="https://bhartipur.in/months-august/" id="wpc-option-taxonomy-months_selection-85" value="85">August (5)</option>
+<option class="wpc-term-count-0 wpc-term-id-86" data-wpc-link="https://bhartipur.in/months-july/" id="wpc-option-taxonomy-months_selection-86" value="86">July (0)</option>
+<option class="wpc-term-count-0 wpc-term-id-84" data-wpc-link="https://bhartipur.in/months-june/" id="wpc-option-taxonomy-months_selection-84" value="84">June (0)</option>
+<option class="wpc-term-count-0 wpc-term-id-83" data-wpc-link="https://bhartipur.in/months-may/" id="wpc-option-taxonomy-months_selection-83" value="83">May (0)</option>
+<option class="wpc-term-count-24 wpc-term-id-111" data-wpc-link="https://bhartipur.in/months-october/" id="wpc-option-taxonomy-months_selection-111" value="111">October (24)</option>
+<option class="wpc-term-count-37 wpc-term-id-101" data-wpc-link="https://bhartipur.in/months-september/" id="wpc-option-taxonomy-months_selection-101" value="101">September (37)</option>
+<!-- end foreach -->
+</select>
+<!-- end if -->
+</div>
+</div><div class="wpc-filters-section wpc-filters-section-815 wpc-filter-category wpc-filter-taxonomy wpc-filter-layout-dropdown" data-fid="815">
+<div class="wpc-filter-header">
+<div class="widget-title wpc-filter-title">
+            Category        </div>
+</div>
+<div class="wpc-filter-content wpc-filter-category wpc-filter-has-hierarchy">
+<select aria-label="wpc-taxonomy-category-815" class="wpc-filters-widget-select" id="wpc-taxonomy-category-815">
+<option class="wpc-dropdown-default" data-wpc-link="https://bhartipur.in/" id="wpc-option-taxonomy-category-0" value="0">- Select Category -</option>
+<option class="wpc-term-count-2 wpc-term-id-17" data-wpc-link="https://bhartipur.in/category-bank/" id="wpc-option-taxonomy-category-17" value="17">Bank (2)</option>
+<option class="wpc-term-count-1 wpc-term-id-106" data-wpc-link="https://bhartipur.in/category-ccc/" id="wpc-option-taxonomy-category-106" value="106">CCC (1)</option>
+<option class="wpc-term-count-2 wpc-term-id-113" data-wpc-link="https://bhartipur.in/category-central/" id="wpc-option-taxonomy-category-113" value="113">Central (2)</option>
+<option class="wpc-term-count-6 wpc-term-id-7" data-wpc-link="https://bhartipur.in/category-defense/" id="wpc-option-taxonomy-category-7" value="7">Defense (6)</option>
+<option class="wpc-term-count-3 wpc-term-id-13" data-wpc-link="https://bhartipur.in/category-degree-polytechnic-iti/" id="wpc-option-taxonomy-category-13" value="13">Degree polytechnic ITI (3)</option>
+<option class="wpc-term-count-2 wpc-term-id-87" data-wpc-link="https://bhartipur.in/category-delhi-exams/" id="wpc-option-taxonomy-category-87" value="87">Delhi Exams (2)</option>
+<option class="wpc-term-count-12 wpc-term-id-116" data-wpc-link="https://bhartipur.in/category-employment-news/" id="wpc-option-taxonomy-category-116" value="116">Employment News (12)</option>
+<option class="wpc-term-count-1 wpc-term-id-12" data-wpc-link="https://bhartipur.in/category-entrance-exam/" id="wpc-option-taxonomy-category-12" value="12">Entrance Exam (1)</option>
+<option class="wpc-term-count-1 wpc-term-id-112" data-wpc-link="https://bhartipur.in/category-haryana-exams-state-exams/" id="wpc-option-taxonomy-category-112" value="112">Haryana Exams (1)</option>
+<option class="wpc-term-count-0 wpc-term-id-107" data-wpc-link="https://bhartipur.in/category-haryana-exams/" id="wpc-option-taxonomy-category-107" value="107">Haryana Exams (0)</option>
+<option class="wpc-term-count-7 wpc-term-id-9" data-wpc-link="https://bhartipur.in/category-police-exams/" id="wpc-option-taxonomy-category-9" value="9">Police Exams (7)</option>
+<option class="wpc-term-count-1 wpc-term-id-18" data-wpc-link="https://bhartipur.in/category-railway/" id="wpc-option-taxonomy-category-18" value="18">Railway (1)</option>
+<option class="wpc-term-count-0 wpc-term-id-110" data-wpc-link="https://bhartipur.in/category-rajasthan-exams/" id="wpc-option-taxonomy-category-110" value="110">Rajasthan Exams (0)</option>
+<option class="wpc-term-count-4 wpc-term-id-8" data-wpc-link="https://bhartipur.in/category-school-entrance/" id="wpc-option-taxonomy-category-8" value="8">School Entrance (4)</option>
+<option class="wpc-term-count-8 wpc-term-id-16" data-wpc-link="https://bhartipur.in/category-ssc/" id="wpc-option-taxonomy-category-16" value="16">SSC (8)</option>
+<option class="wpc-term-count-9 wpc-term-id-11" data-wpc-link="https://bhartipur.in/category-state-exams/" id="wpc-option-taxonomy-category-11" value="11">State Exams (9)</option>
+<option class="wpc-term-count-7 wpc-term-id-6" data-wpc-link="https://bhartipur.in/category-teachers-exam/" id="wpc-option-taxonomy-category-6" value="6">Teachers Exam (7)</option>
+<option class="wpc-term-count-0 wpc-term-id-10" data-wpc-link="https://bhartipur.in/category-upsc-exams/" id="wpc-option-taxonomy-category-10" value="10">UPSC Exams (0)</option>
+<option class="wpc-term-count-9 wpc-term-id-42" data-wpc-link="https://bhartipur.in/category-uttar-pradesh/" id="wpc-option-taxonomy-category-42" value="42">Uttar Pradesh (9)</option>
+<!-- end foreach -->
+</select>
+<!-- end if -->
+</div>
+</div><div class="wpc-filters-section wpc-filters-section-799 wpc-filter-all_exams_list wpc-filter-post_meta wpc-filter-layout-dropdown" data-fid="799">
+<div class="wpc-filter-header">
+<div class="widget-title wpc-filter-title">
+            Exams        </div>
+</div>
+<div class="wpc-filter-content wpc-filter-all_exams_list">
+<select aria-label="wpc-post_meta-all_exams_list-799" class="wpc-filters-widget-select" id="wpc-post_meta-all_exams_list-799">
+<option class="wpc-dropdown-default" data-wpc-link="https://bhartipur.in/" id="wpc-option-post_meta-all_exams_list-0" value="0">Select Category first</option>
+</select>
+<!-- end if -->
+</div>
+</div><div class="wpc-filters-section wpc-filters-section-807 wpc-filter-other_list wpc-filter-post_meta wpc-filter-layout-dropdown" data-fid="807">
+<div class="wpc-filter-header">
+<div class="widget-title wpc-filter-title">
+            News        </div>
+</div>
+<div class="wpc-filter-content wpc-filter-other_list">
+<select aria-label="wpc-post_meta-other_list-807" class="wpc-filters-widget-select" id="wpc-post_meta-other_list-807">
+<option class="wpc-dropdown-default" data-wpc-link="https://bhartipur.in/" id="wpc-option-post_meta-other_list-0" value="0">Select Exams first</option>
+</select>
+<!-- end if -->
+</div>
+</div></div>
+</div>
+<div class="wpc-filters-widget-controls-container">
+<div class="wpc-filters-widget-controls-wrapper"><div class="wpc-filters-widget-controls-item wpc-filters-widget-controls-one">
+<a class="wpc-filters-apply-button wpc-posts-loaded" href="https://bhartipur.in/">Show <span class="wpc-filters-found-posts-wrapper">(<span class="wpc-filters-found-posts">72</span>)</span></a>
+</div>
+<div class="wpc-filters-widget-controls-item wpc-filters-widget-controls-two">
+<a class="wpc-filters-close-button" href="https://bhartipur.in/">Cancel    </a>
+</div>
+</div></div></div>
+</div>
+<style type="text/css">
+@media screen and (max-width: 768px) {
+    .wpc_show_bottom_widget .wpc-filters-widget-controls-container,
+    .wpc_show_bottom_widget .wpc-filters-widget-top-container,
+    .wpc_show_open_close_button .wpc-filters-open-button-container,
+    .wpc_show_bottom_widget .wpc-filters-open-button-container{
+            display: block;
+    }
+}
+</style>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-d6bbbeb elementor-widget__width-auto elementor-widget elementor-widget-button" data-element_type="widget" data-id="d6bbbeb" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button-link elementor-button elementor-size-sm" href="https://bhartipur.in/" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Reset Filter </span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-d663ddd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="d663ddd" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-ecdcbb6" data-element_type="column" data-id="ecdcbb6">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-1700242 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="1700242" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Popular Categories</h2> </div>
+</div>
+<div class="elementor-element elementor-element-1f8dc6f elementor-widget__width-auto elementor-widget elementor-widget-button" data-element_type="widget" data-id="1f8dc6f" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button-link elementor-button elementor-size-xs" href="https://bhartipur.in/category-bank/" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Bank</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-0abfe5a elementor-widget__width-auto elementor-widget elementor-widget-button" data-element_type="widget" data-id="0abfe5a" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button-link elementor-button elementor-size-xs" href="https://bhartipur.in/category-defense/" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Defence</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-8d2d852 elementor-widget__width-auto elementor-widget elementor-widget-button" data-element_type="widget" data-id="8d2d852" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button-link elementor-button elementor-size-xs" href="https://bhartipur.in/category-degree-polytechnic-iti/" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Degree Polytechnic ITI</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-4704367 elementor-widget__width-auto elementor-widget elementor-widget-button" data-element_type="widget" data-id="4704367" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button-link elementor-button elementor-size-xs" href="https://bhartipur.in/category-delhi-exams/" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Delhi Exams</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-30a4cc4 elementor-widget__width-auto elementor-widget elementor-widget-button" data-element_type="widget" data-id="30a4cc4" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button-link elementor-button elementor-size-xs" href="https://bhartipur.in/category-police-exams/" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Police Exam</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-d17368d elementor-widget__width-auto elementor-widget elementor-widget-button" data-element_type="widget" data-id="d17368d" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button-link elementor-button elementor-size-xs" href="https://bhartipur.in/category-railway" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Railway</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-e18889f elementor-widget__width-auto elementor-widget elementor-widget-button" data-element_type="widget" data-id="e18889f" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button-link elementor-button elementor-size-xs" href="https://bhartipur.in/category-school-entrance/" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">School Entrance</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-2e7f4fd elementor-widget__width-auto elementor-widget elementor-widget-button" data-element_type="widget" data-id="2e7f4fd" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button-link elementor-button elementor-size-xs" href="https://bhartipur.in/category-ssc" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">SSC</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-e7df17b elementor-widget__width-auto elementor-widget elementor-widget-button" data-element_type="widget" data-id="e7df17b" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button-link elementor-button elementor-size-xs" href="https://bhartipur.in/category-state-exams/" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">State Exam</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-8ed6666 elementor-widget__width-auto elementor-widget elementor-widget-button" data-element_type="widget" data-id="8ed6666" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button-link elementor-button elementor-size-xs" href="https://bhartipur.in/category-teachers-exam/" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Teachers Exam</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-00176e3 elementor-widget__width-auto elementor-widget elementor-widget-button" data-element_type="widget" data-id="00176e3" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button-link elementor-button elementor-size-xs" href="https://bhartipur.in/category-upsc-exams/" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">UPSC Exam</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-a0b807b elementor-widget__width-auto elementor-widget elementor-widget-button" data-element_type="widget" data-id="a0b807b" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button-link elementor-button elementor-size-xs" href="https://bhartipur.in/category-uttar-pradesh/" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Uttar Pradesh</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="elementor-element elementor-element-0a25833 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0a25833" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Showing Results </h2> </div>
+</div>
+<div class="elementor-element elementor-element-4951232 elementor-align-right elementor-widget__width-auto elementor-widget elementor-widget-button" data-element_type="widget" data-id="4951232" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a class="elementor-button-link elementor-button elementor-size-sm" href="https://bhartipur.in/news-table-view/" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-icon elementor-align-icon-left">
+<i aria-hidden="true" class="fas fa-table"></i> </span>
+<span class="elementor-button-text">Show Table View</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-50bcb02 elementor-grid-2 elementor-posts--thumbnail-top elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-widget elementor-widget-posts" data-element_type="widget" data-id="50bcb02" data-settings='{"custom_columns":"2","custom_columns_tablet":"2","custom_columns_mobile":"1","custom_row_gap":{"unit":"px","size":35,"sizes":[]},"custom_row_gap_tablet":{"unit":"px","size":"","sizes":[]},"custom_row_gap_mobile":{"unit":"px","size":"","sizes":[]}}' data-widget_type="posts.custom">
+<div class="elementor-widget-container">
+<link href="https://bhartipur.in/wp-content/plugins/elementor-pro/assets/css/widget-posts.min.css" rel="stylesheet"/> <div class="ecs-posts elementor-posts-container elementor-posts elementor-grid elementor-posts--skin-custom" data-settings='{"current_page":1,"max_num_pages":3,"load_method":"loadmore","widget_id":"50bcb02","post_id":6094,"theme_id":2636,"change_url":false,"reinit_js":"true"}'>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-6094 post type-post status-publish format-standard hentry category-central tag-notification entry" id="post-6094">
+<div class="elementor elementor-1215 elementor-location-archive post-6094 post type-post status-publish format-standard hentry category-central tag-notification entry" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/intelligence-bureau-ib-recruitment-apply-online-2022/" target="_blank">28 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<link href="https://bhartipur.in/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css" rel="stylesheet"/> <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/central/">Central</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/intelligence-bureau-ib-recruitment-apply-online-2022/" target="_blank">Intelligence Bureau IB Recruitment: Apply Online 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/intelligence-bureau-ib-recruitment-apply-online-2022/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										Security Assistant/Executive and MTS (General) Examination 2022 Online applications are invited from Indian nationals for direct recruitment to the					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/intelligence-bureau-ib-recruitment-apply-online-2022/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-6054 post type-post status-publish format-standard hentry category-police-exams tag-notification entry" id="post-6054">
+<div class="elementor elementor-1215 elementor-location-archive post-6054 post type-post status-publish format-standard hentry category-police-exams tag-notification entry" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/itbp-asi-pharmacist-recruitment-2022/" target="_blank">27 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/police-exams/">Police Exams</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/itbp-asi-pharmacist-recruitment-2022/" target="_blank">ITBP ASI (Pharmacist) Recruitment 2022: Apply Now, Notification PDF, Eligibility</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/itbp-asi-pharmacist-recruitment-2022/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										ITBP Assistant Sub Inspector (Pharmacist) Notification “INDO-TIBETAN BORDER POLICE FORCE” (ITBP.), Ministry of Home Affairs, has released Vacancies to					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/itbp-asi-pharmacist-recruitment-2022/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-3273 post type-post status-publish format-standard hentry category-ssc tag-notification months_selection-september entry" id="post-3273">
+<div class="elementor elementor-1215 elementor-location-archive post-3273 post type-post status-publish format-standard hentry category-ssc tag-notification months_selection-september entry" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/ssc-gd-2023/" target="_blank">27 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/ssc/">SSC</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/ssc-gd-2023/" target="_blank">SSC GD Constable 2023 Notification Out: Exam Pattern Changed, Apply Now</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/ssc-gd-2023/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										SSC GD 2023 Latest update Date: 27 October 2022- Notification out SSC has released the official examination notification for					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/ssc-gd-2023/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-6034 post type-post status-publish format-standard hentry category-employment-news tag-notification months_selection-october entry" id="post-6034">
+<div class="elementor elementor-1215 elementor-location-archive post-6034 post type-post status-publish format-standard hentry category-employment-news tag-notification months_selection-october entry" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/ldc-recruitment-board-of-practical-training/" target="_blank">27 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/employment-news/">Employment News</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/ldc-recruitment-board-of-practical-training/" target="_blank">LDC Bharti (New) in Board of Practical Training: 12th Pass Apply Now</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/ldc-recruitment-board-of-practical-training/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										Lower Division Clerk Vacancy in BOARD OF PRACTICAL TRAINING (EASTERN REGION) 2022 The BOARD OF PRACTICAL TRAINING (EASTERN REGION)					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/ldc-recruitment-board-of-practical-training/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-6026 post type-post status-publish format-standard has-post-thumbnail hentry category-employment-news tag-notification months_selection-october entry has-media" id="post-6026">
+<div class="elementor elementor-1215 elementor-location-archive post-6026 post type-post status-publish format-standard has-post-thumbnail hentry category-employment-news tag-notification months_selection-october entry has-media" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/upsc-online-recruitment-new-vacancies-apply-now-link-vacancies-notification-pdf/" target="_blank">27 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/employment-news/">Employment News</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/upsc-online-recruitment-new-vacancies-apply-now-link-vacancies-notification-pdf/" target="_blank">UPSC Online Recruitment New Vacancies: Apply Now link, Vacancies, Notification PDF</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/upsc-online-recruitment-new-vacancies-apply-now-link-vacancies-notification-pdf/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										UPSC Online Recruitment Application: 22 October – 10 November 2022 UPSC or Union Public Service Commission released vacancies in					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/upsc-online-recruitment-new-vacancies-apply-now-link-vacancies-notification-pdf/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-3536 post type-post status-publish format-standard hentry category-teachers-exam tag-exam-details months_selection-september entry" id="post-3536">
+<div class="elementor elementor-1215 elementor-location-archive post-3536 post type-post status-publish format-standard hentry category-teachers-exam tag-exam-details months_selection-september entry" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/ctet-2022-exam-date/" target="_blank">20 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/teachers-exam/">Teachers Exam</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/ctet-2022-exam-date/" target="_blank">CTET Exam date 2022: Notification, Admit card, Eligibility, Syllabus, Books</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/ctet-2022-exam-date/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										CTET 2022 Notification Out Latest Update: 20 October 2022 CTET  2022 Notification has been officially released on 20 October					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/ctet-2022-exam-date/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-5988 post type-post status-publish format-standard hentry category-employment-news tag-notification entry" id="post-5988">
+<div class="elementor elementor-1215 elementor-location-archive post-5988 post type-post status-publish format-standard hentry category-employment-news tag-notification entry" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/nit-nagaland-non-teaching-bharti-2022/" target="_blank">20 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/employment-news/">Employment News</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/nit-nagaland-non-teaching-bharti-2022/" target="_blank">NIT Nagaland Non-Teaching Bharti 2022: Apply Now (Direct Link)</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/nit-nagaland-non-teaching-bharti-2022/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										NIT Nagaland Non-Teaching Recruitment – Notification PDF NIT Nagaland or National Institute of Technology, Nagaland invites applications from Indian					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/nit-nagaland-non-teaching-bharti-2022/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-5044 post type-post status-publish format-standard has-post-thumbnail hentry category-state-exams tag-notification months_selection-october entry has-media" id="post-5044">
+<div class="elementor elementor-1215 elementor-location-archive post-5044 post type-post status-publish format-standard has-post-thumbnail hentry category-state-exams tag-notification months_selection-october entry has-media" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/rajasthan-cet-exam-2022/" target="_blank">20 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/state-exams/">State Exams</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/rajasthan-cet-exam-2022/" target="_blank">Rajasthan CET Exam 2022 Date OUT, Exam Pattern, Syllabus, Selection Process</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/rajasthan-cet-exam-2022/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										Rajasthan CET Exam Date OUT Recently, RSMSSB released a notice for the exam date of the Rajasthan CET Exam					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/rajasthan-cet-exam-2022/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-5984 post type-post status-publish format-standard hentry category-employment-news tag-notification months_selection-october entry" id="post-5984">
+<div class="elementor elementor-1215 elementor-location-archive post-5984 post type-post status-publish format-standard hentry category-employment-news tag-notification months_selection-october entry" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/clerk-technical-trainee-in-homi-bhabha-centre/" target="_blank">20 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/employment-news/">Employment News</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/clerk-technical-trainee-in-homi-bhabha-centre/" target="_blank">Clerk &amp; Technical Trainee in Homi Bhabha Centre for Science Education, Mumbai</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/clerk-technical-trainee-in-homi-bhabha-centre/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										Clerk &amp; Technical Trainee in Homi Bhabha Centre: Notification Details Under Advertisement No. 06/2022, Applications are invited for Clerk					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/clerk-technical-trainee-in-homi-bhabha-centre/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-5972 post type-post status-publish format-standard has-post-thumbnail hentry category-employment-news tag-notification months_selection-october entry has-media" id="post-5972">
+<div class="elementor elementor-1215 elementor-location-archive post-5972 post type-post status-publish format-standard has-post-thumbnail hentry category-employment-news tag-notification months_selection-october entry has-media" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/dgqa-ldc-clerk-recruitment-2022/" target="_blank">19 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/employment-news/">Employment News</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/dgqa-ldc-clerk-recruitment-2022/" target="_blank">DGQA LDC Clerk Recruitment 2022, Syllabus, Exam Date, Salary</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/dgqa-ldc-clerk-recruitment-2022/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										DGQA LDC Clerk Recruitment 2022 Directorate General of Quality Assurance (DGQA) Defence has released the recruitment notification for the					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/dgqa-ldc-clerk-recruitment-2022/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-5921 post type-post status-publish format-standard hentry category-employment-news tag-notification months_selection-october entry" id="post-5921">
+<div class="elementor elementor-1215 elementor-location-archive post-5921 post type-post status-publish format-standard hentry category-employment-news tag-notification months_selection-october entry" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/ukpsc-bharti-2022-patwari-lekhpal-apply-online/" target="_blank">19 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/employment-news/">Employment News</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/ukpsc-bharti-2022-patwari-lekhpal-apply-online/" target="_blank">UKPSC Bharti 2022: Patwari Lekhpal  Apply Online</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/ukpsc-bharti-2022-patwari-lekhpal-apply-online/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										UKPSC Bharti Revenue Sub Inspector Notification 2022: Patwari and Lekhpal UKPSC Bharti 2022: Uttrakhand Public Service Commission has released					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/ukpsc-bharti-2022-patwari-lekhpal-apply-online/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-5937 post type-post status-publish format-standard has-post-thumbnail hentry category-employment-news tag-notification months_selection-october entry has-media" id="post-5937">
+<div class="elementor elementor-1215 elementor-location-archive post-5937 post type-post status-publish format-standard has-post-thumbnail hentry category-employment-news tag-notification months_selection-october entry has-media" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/rgcb-recruitment-2022-for-typist-clerk/" target="_blank">19 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/employment-news/">Employment News</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/rgcb-recruitment-2022-for-typist-clerk/" target="_blank">RGCB Recruitment 2022 For Typist/Clerk &amp; Others, Salary, Exam Pattern</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/rgcb-recruitment-2022-for-typist-clerk/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										What is RGCB Recruitment 2022 for a Typist/Clerk? The Rajiv Gandhi Centre for Biotechnology (RGCB) has issued a job					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/rgcb-recruitment-2022-for-typist-clerk/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-5917 post type-post status-publish format-standard has-post-thumbnail hentry category-degree-polytechnic-iti tag-notification months_selection-october entry has-media" id="post-5917">
+<div class="elementor elementor-1215 elementor-location-archive post-5917 post type-post status-publish format-standard has-post-thumbnail hentry category-degree-polytechnic-iti tag-notification months_selection-october entry has-media" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/bihar-polytechnic-exam-2023/" target="_blank">19 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/degree-polytechnic-iti/">Degree polytechnic ITI</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/bihar-polytechnic-exam-2023/" target="_blank">Bihar Polytechnic Exam 2023, Syllabus, Exam Pattern</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/bihar-polytechnic-exam-2023/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										What is Bihar Polytechnic Entrance Exam 2023? Bihar Combined Entrance Competitive Examination Board (BCECEB) is constituted under Bihar Combined					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/bihar-polytechnic-exam-2023/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-5830 post type-post status-publish format-standard hentry category-delhi-exams tag-notification months_selection-october entry" id="post-5830">
+<div class="elementor elementor-1215 elementor-location-archive post-5830 post type-post status-publish format-standard hentry category-delhi-exams tag-notification months_selection-october entry" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/dsssb-online-recruitment-2022/" target="_blank">18 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/delhi-exams/">Delhi Exams</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/dsssb-online-recruitment-2022/" target="_blank">DSSSB Bharti 2022: Vacancies, Eligibility, Syllabus, Notification PDF, Exam Pattern</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/dsssb-online-recruitment-2022/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										DSSSB Online Recruitment 2022: Notification PDF Out DSSSB Online Recruitment 2022 has been announced. Society for Centralized Recruitment of					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/dsssb-online-recruitment-2022/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-5814 post type-post status-publish format-standard has-post-thumbnail hentry category-bank tag-notification months_selection-october entry has-media" id="post-5814">
+<div class="elementor elementor-1215 elementor-location-archive post-5814 post type-post status-publish format-standard has-post-thumbnail hentry category-bank tag-notification months_selection-october entry has-media" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/sbi-cbo-notification-2022/" target="_blank">18 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/bank/">Bank</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/sbi-cbo-notification-2022/" target="_blank">SBI CBO Notification 2022, Exam Date, Syllabus, Salary</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/sbi-cbo-notification-2022/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										SBI CBO Notification 2022 SBI has released the notification for SBI CBO Recruitment 2022. Eligible candidates, who aspire to					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/sbi-cbo-notification-2022/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-5708 post type-post status-publish format-standard hentry category-state-exams tag-notification entry" id="post-5708">
+<div class="elementor elementor-1215 elementor-location-archive post-5708 post type-post status-publish format-standard hentry category-state-exams tag-notification entry" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/punjab-haryana-high-court-clerk-recruitment/" target="_blank">17 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/state-exams/">State Exams</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/punjab-haryana-high-court-clerk-recruitment/" target="_blank">Clerk Recruitment in Punjab and Haryana High Court: Notification PDF, Syllabus, Exam</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/punjab-haryana-high-court-clerk-recruitment/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										High Court Clerk Recruitment 2022: Notification Society for Centralized Recruitment of Staff in Subordinate Courts under the High Court					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/punjab-haryana-high-court-clerk-recruitment/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-5705 post type-post status-publish format-standard has-post-thumbnail hentry category-state-exams tag-notification months_selection-october entry has-media" id="post-5705">
+<div class="elementor elementor-1215 elementor-location-archive post-5705 post type-post status-publish format-standard has-post-thumbnail hentry category-state-exams tag-notification months_selection-october entry has-media" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/mppsc-forest-services-notification-2023/" target="_blank">17 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/state-exams/">State Exams</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/mppsc-forest-services-notification-2023/" target="_blank">MPPSC Forest Services Notification 2023, Online Form, Selection Process</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/mppsc-forest-services-notification-2023/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										MPPSC Forest Services Notification 2023 Online applications are invited from the eligible candidates for appointment to the posts Assistant					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/mppsc-forest-services-notification-2023/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-3686 post type-post status-publish format-standard hentry category-ssc tag-notification months_selection-september entry" id="post-3686">
+<div class="elementor elementor-1215 elementor-location-archive post-3686 post type-post status-publish format-standard hentry category-ssc tag-notification months_selection-september entry" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/ssc-stenographer-result-2020/" target="_blank">17 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/ssc/">SSC</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/ssc-stenographer-result-2020/" target="_blank">SSC Stenographer 2022 Exam Date Out – Notification, Syllabus, Eligibility &amp; best books</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/ssc-stenographer-result-2020/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										SSC Stenographer Group C and D 2020: Result Out Latest Update : 17 October 2022SSC has released the final					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/ssc-stenographer-result-2020/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-5648 post type-post status-publish format-standard hentry category-employment-news tag-notification months_selection-october entry" id="post-5648">
+<div class="elementor elementor-1215 elementor-location-archive post-5648 post type-post status-publish format-standard hentry category-employment-news tag-notification months_selection-october entry" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/ldc-recruitment/" target="_blank">15 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/employment-news/">Employment News</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/ldc-recruitment/" target="_blank">LDC Bharti (New) in NIEPA: Exam Date, Apply Online Link, 12th Pass</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/ldc-recruitment/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										Lower Division Clerk Recruitment Vacancy The National Institute of Educational Planning and Administration (NIEPA) has invited recruitment applications to					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/ldc-recruitment/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-5592 post type-post status-publish format-standard hentry category-employment-news tag-notification months_selection-october entry" id="post-5592">
+<div class="elementor elementor-1215 elementor-location-archive post-5592 post type-post status-publish format-standard hentry category-employment-news tag-notification months_selection-october entry" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/assistant-professor-du/" target="_blank">14 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/employment-news/">Employment News</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/assistant-professor-du/" target="_blank">Assistant Professor Vacancy in DU: Date, Apply Online, Notification pdf</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/assistant-professor-du/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										Assistant Professor: Recruitment Notification in DU Online applications are invited from the eligible candidates for appointment to the post					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/assistant-professor-du/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-5566 post type-post status-publish format-standard hentry category-employment-news tag-notification months_selection-october entry" id="post-5566">
+<div class="elementor elementor-1215 elementor-location-archive post-5566 post type-post status-publish format-standard hentry category-employment-news tag-notification months_selection-october entry" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/cdac-recruitment/" target="_blank">14 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/employment-news/">Employment News</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/cdac-recruitment/" target="_blank">CDAC Recruitment 2022: Apply Now LInk, No fee, Eligibility</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/cdac-recruitment/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										CDAC Recruitment Notification Centre for Development of Advanced Computing (C-DAC) released vacancies to hire talented computer professionals. A career					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/cdac-recruitment/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-5539 post type-post status-publish format-standard has-post-thumbnail hentry category-employment-news tag-notification months_selection-october entry has-media" id="post-5539">
+<div class="elementor elementor-1215 elementor-location-archive post-5539 post type-post status-publish format-standard has-post-thumbnail hentry category-employment-news tag-notification months_selection-october entry has-media" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/upsc-online-recruitment/" target="_blank">14 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/employment-news/">Employment News</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/upsc-online-recruitment/" target="_blank">UPSC Online Recruitment New Vacancies: Apply Now link, Vacancies, Notification PDF</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/upsc-online-recruitment/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										UPSC Online Recruitment Application: 8 October – 27 October 2022 UPSC or Union Public Service Commission released vacancies in					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/upsc-online-recruitment/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-5519 post type-post status-publish format-standard has-post-thumbnail hentry category-employment-news tag-notification months_selection-october entry has-media" id="post-5519">
+<div class="elementor elementor-1215 elementor-location-archive post-5519 post type-post status-publish format-standard has-post-thumbnail hentry category-employment-news tag-notification months_selection-october entry has-media" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/iit-kanpur-junior-assistant-notification2022/" target="_blank">13 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/employment-news/">Employment News</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/iit-kanpur-junior-assistant-notification2022/" target="_blank">IIT Kanpur Junior Assistant Notification 2022, Selection Process, Syllabus</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/iit-kanpur-junior-assistant-notification2022/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										IIT Kanpur Junior Assistant Notification 2022 IIT Kanpur has released the bharti notification for Junior Assistant. IIT Kanpur is					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/iit-kanpur-junior-assistant-notification2022/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-5480 post type-post status-publish format-standard hentry category-state-exams tag-notification months_selection-october entry" id="post-5480">
+<div class="elementor elementor-1215 elementor-location-archive post-5480 post type-post status-publish format-standard hentry category-state-exams tag-notification months_selection-october entry" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/mp-vidhan-sabha-bharti/" target="_blank">12 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/state-exams/">State Exams</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/mp-vidhan-sabha-bharti/" target="_blank">MP Vidhan Sabha Bharti (New): Assistant, Steno, Guard</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/mp-vidhan-sabha-bharti/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										MP Vidhan Sabha 2022: Bharti Posts MP Vidhan Sabha Released Bharti Notification to recruit for multiple posts for eligible					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/mp-vidhan-sabha-bharti/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+<article class="elementor-post elementor-grid-item ecs-post-loop post-5465 post type-post status-publish format-standard has-post-thumbnail hentry category-state-exams tag-notification months_selection-october entry has-media" id="post-5465">
+<div class="elementor elementor-1215 elementor-location-archive post-5465 post type-post status-publish format-standard has-post-thumbnail hentry category-state-exams tag-notification months_selection-october entry has-media" data-elementor-id="1215" data-elementor-type="loop">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0123288 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0123288" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0aaacd" data-element_type="column" data-id="f0aaacd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-0d3bd0a elementor-widget__width-initial heads elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d3bd0a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-medium"><a href="https://bhartipur.in/becil-deo-ta-2022-notification/" target="_blank">12 October 2022</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-549a096 elementor-widget__width-auto elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="549a096" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-c5a2ea7 elementor-inline-item" itemprop="about">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+<span class="elementor-post-info__terms-list">
+<a class="elementor-post-info__terms-list-item" href="https://bhartipur.in/category/state-exams/">State Exams</a> </span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-ed74489 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="ed74489" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/becil-deo-ta-2022-notification/" target="_blank">BECIL DEO &amp; TA 2022 Notification, Salary, Selection Process</a></h1> </div>
+</div>
+<div class="elementor-element elementor-element-9a1a1ff elementor-align-left elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="9a1a1ff" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-23f3fa8 elementor-inline-item">
+<a href="https://bhartipur.in/becil-deo-ta-2022-notification/" target="_blank">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-custom">
+										BECIL DEO &amp; TA Notification 2022 Candidates looking for a chance in the BECIL now have a wonderful opportunity.					</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-b1bea62 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b1bea62" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://bhartipur.in/becil-deo-ta-2022-notification/" target="_blank">Read More...</a></h2> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</article>
+</div>
+<nav aria-label="Pagination" class="elementor-pagination" role="navigation">
+</nav>
+<nav class="elementor-button-wrapper elementor-pagination ecs-load-more-button" data-settings='{"loading_text":"Loading...","text":"Load More","widget_id":"50bcb02"}'>
+<a class="elementor-button-link elementor-button" href="https://bhartipur.in/intelligence-bureau-ib-recruitment-apply-online-2022/?page=2" role="button">
+<span>Load More</span>
+</a>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</main><!-- #main -->
+<div class="elementor elementor-5226 elementor-location-footer" data-elementor-id="5226" data-elementor-type="footer">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-79768ef elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="79768ef" data-particle-mobile-disabled="false" data-particle_enable="false" data-settings='{"background_background":"classic"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f3b7af2" data-element_type="column" data-id="f3b7af2" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-e03ac18 elementor-widget elementor-widget-image" data-element_type="widget" data-id="e03ac18" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<a href="https://bhartipur.in">
+<img alt="bhartipur-logo" class="attachment-medium size-medium" height="95" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://bhartipur.in/wp-content/uploads/2022/06/BHARTIPUR-LOGO-1-300x95.png" srcset="https://bhartipur.in/wp-content/uploads/2022/06/BHARTIPUR-LOGO-1-300x95.png 300w, https://bhartipur.in/wp-content/uploads/2022/06/BHARTIPUR-LOGO-1-1024x325.png 1024w, https://bhartipur.in/wp-content/uploads/2022/06/BHARTIPUR-LOGO-1-768x243.png 768w, https://bhartipur.in/wp-content/uploads/2022/06/BHARTIPUR-LOGO-1-1536x487.png 1536w, https://bhartipur.in/wp-content/uploads/2022/06/BHARTIPUR-LOGO-1-2048x649.png 2048w" width="300"/> </a>
+</div>
+</div>
+<div class="elementor-element elementor-element-a7a12d5 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="a7a12d5" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<style>/*! elementor - v3.7.7 - 20-09-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style> <p><strong>Bhartipur is the one-stop platform for the most authentic, detailed, and fastest updates on all Government Exams, and Employment Opportunities.</strong></p> </div>
+</div>
+<div class="elementor-element elementor-element-e67b6f7 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-element_type="widget" data-id="e67b6f7" data-widget_type="social-icons.default">
+<div class="elementor-widget-container">
+<style>/*! elementor - v3.7.7 - 20-09-2022 */
+.elementor-widget-social-icons.elementor-grid-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-mobile-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-tablet-0 .elementor-widget-container{line-height:1;font-size:0}.elementor-widget-social-icons:not(.elementor-grid-0):not(.elementor-grid-tablet-0):not(.elementor-grid-mobile-0) .elementor-grid{display:inline-grid}.elementor-widget-social-icons .elementor-grid{grid-column-gap:var(--grid-column-gap,5px);grid-row-gap:var(--grid-row-gap,5px);grid-template-columns:var(--grid-template-columns);-webkit-box-pack:var(--justify-content,center);-ms-flex-pack:var(--justify-content,center);justify-content:var(--justify-content,center);justify-items:var(--justify-content,center)}.elementor-icon.elementor-social-icon{font-size:var(--icon-size,25px);line-height:var(--icon-size,25px);width:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)));height:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)))}.elementor-social-icon{--e-social-icon-icon-color:#fff;display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex;background-color:#818a91;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;text-align:center;cursor:pointer}.elementor-social-icon i{color:var(--e-social-icon-icon-color)}.elementor-social-icon svg{fill:var(--e-social-icon-icon-color)}.elementor-social-icon:last-child{margin:0}.elementor-social-icon:hover{opacity:.9;color:#fff}.elementor-social-icon-android{background-color:#a4c639}.elementor-social-icon-apple{background-color:#999}.elementor-social-icon-behance{background-color:#1769ff}.elementor-social-icon-bitbucket{background-color:#205081}.elementor-social-icon-codepen{background-color:#000}.elementor-social-icon-delicious{background-color:#39f}.elementor-social-icon-deviantart{background-color:#05cc47}.elementor-social-icon-digg{background-color:#005be2}.elementor-social-icon-dribbble{background-color:#ea4c89}.elementor-social-icon-elementor{background-color:#d30c5c}.elementor-social-icon-envelope{background-color:#ea4335}.elementor-social-icon-facebook,.elementor-social-icon-facebook-f{background-color:#3b5998}.elementor-social-icon-flickr{background-color:#0063dc}.elementor-social-icon-foursquare{background-color:#2d5be3}.elementor-social-icon-free-code-camp,.elementor-social-icon-freecodecamp{background-color:#006400}.elementor-social-icon-github{background-color:#333}.elementor-social-icon-gitlab{background-color:#e24329}.elementor-social-icon-globe{background-color:#818a91}.elementor-social-icon-google-plus,.elementor-social-icon-google-plus-g{background-color:#dd4b39}.elementor-social-icon-houzz{background-color:#7ac142}.elementor-social-icon-instagram{background-color:#262626}.elementor-social-icon-jsfiddle{background-color:#487aa2}.elementor-social-icon-link{background-color:#818a91}.elementor-social-icon-linkedin,.elementor-social-icon-linkedin-in{background-color:#0077b5}.elementor-social-icon-medium{background-color:#00ab6b}.elementor-social-icon-meetup{background-color:#ec1c40}.elementor-social-icon-mixcloud{background-color:#273a4b}.elementor-social-icon-odnoklassniki{background-color:#f4731c}.elementor-social-icon-pinterest{background-color:#bd081c}.elementor-social-icon-product-hunt{background-color:#da552f}.elementor-social-icon-reddit{background-color:#ff4500}.elementor-social-icon-rss{background-color:#f26522}.elementor-social-icon-shopping-cart{background-color:#4caf50}.elementor-social-icon-skype{background-color:#00aff0}.elementor-social-icon-slideshare{background-color:#0077b5}.elementor-social-icon-snapchat{background-color:#fffc00}.elementor-social-icon-soundcloud{background-color:#f80}.elementor-social-icon-spotify{background-color:#2ebd59}.elementor-social-icon-stack-overflow{background-color:#fe7a15}.elementor-social-icon-steam{background-color:#00adee}.elementor-social-icon-stumbleupon{background-color:#eb4924}.elementor-social-icon-telegram{background-color:#2ca5e0}.elementor-social-icon-thumb-tack{background-color:#1aa1d8}.elementor-social-icon-tripadvisor{background-color:#589442}.elementor-social-icon-tumblr{background-color:#35465c}.elementor-social-icon-twitch{background-color:#6441a5}.elementor-social-icon-twitter{background-color:#1da1f2}.elementor-social-icon-viber{background-color:#665cac}.elementor-social-icon-vimeo{background-color:#1ab7ea}.elementor-social-icon-vk{background-color:#45668e}.elementor-social-icon-weibo{background-color:#dd2430}.elementor-social-icon-weixin{background-color:#31a918}.elementor-social-icon-whatsapp{background-color:#25d366}.elementor-social-icon-wordpress{background-color:#21759b}.elementor-social-icon-xing{background-color:#026466}.elementor-social-icon-yelp{background-color:#af0606}.elementor-social-icon-youtube{background-color:#cd201f}.elementor-social-icon-500px{background-color:#0099e5}.elementor-shape-rounded .elementor-icon.elementor-social-icon{border-radius:10%}.elementor-shape-circle .elementor-icon.elementor-social-icon{border-radius:50%}</style> <div class="elementor-social-icons-wrapper elementor-grid">
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-dc5106d" href="https://www.youtube.com/c/CurrentAffairsbyExamcartLive" target="_blank">
+<span class="elementor-screen-only">Youtube</span>
+<i class="fab fa-youtube"></i> </a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-a0eb20e" href="https://www.instagram.com/examcart_agp/" target="_blank">
+<span class="elementor-screen-only">Instagram</span>
+<i class="fab fa-instagram"></i> </a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-book-open elementor-repeater-item-883efea" href="https://examcart.in/" target="_blank">
+<span class="elementor-screen-only">Book-open</span>
+<i class="fas fa-book-open"></i> </a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-abdd422" href="https://www.facebook.com/examCart/" target="_blank">
+<span class="elementor-screen-only">Facebook</span>
+<i class="fab fa-facebook"></i> </a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-telegram elementor-repeater-item-fc66f58" href="https://t.me/bhartipurdotin" target="_blank">
+<span class="elementor-screen-only">Telegram</span>
+<i class="fab fa-telegram"></i> </a>
+</span>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-6c11250 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="6c11250" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p style="text-align: center;"><a href="https://examcart.in/" rel="noopener" target="_blank">Books</a>       <a href="https://examcart.sikhaoo.com/" rel="noopener" target="_blank">Test Series</a>       <a href="https://play.google.com/store/apps/details?id=com.edubot.examcart&amp;hl=en_IN&amp;gl=US" rel="noopener" target="_blank">Courses</a></p> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-e5f6963 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="e5f6963" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-43d2a73" data-element_type="column" data-id="43d2a73" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-87f2dde elementor-widget elementor-widget-heading" data-element_type="widget" data-id="87f2dde" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">© 2022, All rights reserved to Agrawal Group of Publications</h3> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div><!-- #wrap -->
+</div><!-- #outer-wrap -->
+<a aria-label="Scroll to the top of the page" class="scroll-top-right" href="#" id="scroll-top"><i aria-hidden="true" class="fa fa-angle-up" role="img"></i></a>
+<div id="gtranslate_wrapper" style="position:absolute;top:0px;right:8%;z-index:999999;"><!-- GTranslate: https://gtranslate.io/ -->
+<style>
+.switcher {font-family:Arial;font-size:12pt;text-align:left;cursor:pointer;overflow:hidden;width:173px;line-height:17px;}
+.switcher a {text-decoration:none;display:block;font-size:12pt;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;}
+.switcher a img {vertical-align:middle;display:inline;border:0;padding:0;margin:0;opacity:0.8;}
+.switcher a:hover img {opacity:1;}
+.switcher .selected {background:#fff linear-gradient(180deg, #efefef 0%, #fff 70%);position:relative;z-index:9999;}
+.switcher .selected a {border:1px solid #ccc;color:#666;padding:3px 5px;width:161px;}
+.switcher .selected a:after {height:24px;display:inline-block;position:absolute;right:10px;width:15px;background-position:50%;background-size:11px;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 285 285'><path d='M282 76.5l-14.2-14.3a9 9 0 0 0-13.1 0L142.5 174.4 30.3 62.2a9 9 0 0 0-13.2 0L3 76.5a9 9 0 0 0 0 13.1l133 133a9 9 0 0 0 13.1 0l133-133a9 9 0 0 0 0-13z' style='fill:%23666'/></svg>");background-repeat:no-repeat;content:""!important;transition:all .2s;}
+.switcher .selected a.open:after {-webkit-transform: rotate(-180deg);transform:rotate(-180deg);}
+.switcher .selected a:hover {background:#fff}
+.switcher .option {position:relative;z-index:9998;border-left:1px solid #ccc;border-right:1px solid #ccc;border-bottom:1px solid #ccc;background-color:#eee;display:none;width:171px;max-height:198px;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;overflow-y:auto;overflow-x:hidden;}
+.switcher .option a {color:#000;padding:3px 5px;}
+.switcher .option a:hover {background:#fff;}
+.switcher .option a.selected {background:#fff;}
+#selected_lang_name {float: none;}
+.l_name {float: none !important;margin: 0;}
+.switcher .option::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 3px rgba(0,0,0,0.3);border-radius:5px;background-color:#f5f5f5;}
+.switcher .option::-webkit-scrollbar {width:5px;}
+.switcher .option::-webkit-scrollbar-thumb {border-radius:5px;-webkit-box-shadow: inset 0 0 3px rgba(0,0,0,.3);background-color:#888;}
+</style>
+<div class="switcher notranslate">
+<div class="selected">
+<a href="#" onclick="return false;"><img alt="en" height="24" src="//bhartipur.in/wp-content/plugins/gtranslate/flags/24/en.png" width="24"/> English</a>
+</div>
+<div class="option">
+<a class="nturl selected" href="#" onclick="doGTranslate('en|en');jQuery('div.switcher div.selected a').html(jQuery(this).html());return false;" title="English"><img alt="en" data-gt-lazy-src="//bhartipur.in/wp-content/plugins/gtranslate/flags/24/en.png" height="24" width="24"/> English</a><a class="nturl" href="#" onclick="doGTranslate('en|hi');jQuery('div.switcher div.selected a').html(jQuery(this).html());return false;" title="Hindi"><img alt="hi" data-gt-lazy-src="//bhartipur.in/wp-content/plugins/gtranslate/flags/24/hi.png" height="24" width="24"/> Hindi</a></div>
+</div>
+
+<style>#goog-gt-tt{display:none!important;}.goog-te-banner-frame{display:none!important;}.goog-te-menu-value:hover{text-decoration:none!important;}.goog-text-highlight{background-color:transparent!important;box-shadow:none!important;}body{top:0!important;}#google_translate_element2{display:none!important;}</style>
+<div id="google_translate_element2"></div>
+
+
+</div> 
+<main class="elementor elementor-4730 elementor-location-popup" data-elementor-id="4730" data-elementor-settings='{"open_selector":"#ravi","triggers":[],"timing":{"devices":"yes","devices_devices":["desktop","tablet","mobile"]}}' data-elementor-type="popup">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-ba2427f elementor-section-height-min-height animated-fast elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-invisible" data-element_type="section" data-id="ba2427f" data-particle-mobile-disabled="false" data-particle_enable="false" data-settings='{"background_background":"gradient","animation":"fadeIn"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-73b8d9c" data-element_type="column" data-id="73b8d9c" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-0432df1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="0432df1" data-particle-mobile-disabled="false" data-particle_enable="false">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-e0874ae animated-fast" data-element_type="column" data-id="e0874ae" data-settings='{"animation":"none"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-690b954 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="690b954" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-large">Help us Improve our services to help you better !</h2> </div>
+</div>
+<div class="elementor-element elementor-element-a636af8 elementor-button-align-stretch elementor-widget elementor-widget-form" data-element_type="widget" data-id="a636af8" data-settings='{"step_next_label":"Next","step_previous_label":"Previous","step_icon_shape":"rounded","button_width":"100","step_type":"number_text"}' data-widget_type="form.default">
+<div class="elementor-widget-container">
+<style>/*! elementor-pro - v3.7.7 - 20-09-2022 */
+.elementor-button.elementor-hidden,.elementor-hidden{display:none}.e-form__step{width:100%}.e-form__step:not(.elementor-hidden){display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap}.e-form__buttons{-ms-flex-wrap:wrap;flex-wrap:wrap}.e-form__buttons,.e-form__buttons__wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.e-form__indicators{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-ms-flex-wrap:nowrap;flex-wrap:nowrap;font-size:13px;margin-bottom:var(--e-form-steps-indicators-spacing)}.e-form__indicators,.e-form__indicators__indicator{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.e-form__indicators__indicator{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-ms-flex-preferred-size:0;flex-basis:0;padding:0 var(--e-form-steps-divider-gap)}.e-form__indicators__indicator__progress{width:100%;position:relative;background-color:var(--e-form-steps-indicator-progress-background-color);border-radius:var(--e-form-steps-indicator-progress-border-radius);overflow:hidden}.e-form__indicators__indicator__progress__meter{width:var(--e-form-steps-indicator-progress-meter-width,0);height:var(--e-form-steps-indicator-progress-height);line-height:var(--e-form-steps-indicator-progress-height);padding-right:15px;border-radius:var(--e-form-steps-indicator-progress-border-radius);background-color:var(--e-form-steps-indicator-progress-color);color:var(--e-form-steps-indicator-progress-meter-color);text-align:right;-webkit-transition:width .1s linear;-o-transition:width .1s linear;transition:width .1s linear}.e-form__indicators__indicator:first-child{padding-left:0}.e-form__indicators__indicator:last-child{padding-right:0}.e-form__indicators__indicator--state-inactive{color:var(--e-form-steps-indicator-inactive-primary-color,#c2cbd2)}.e-form__indicators__indicator--state-inactive [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none){background-color:var(--e-form-steps-indicator-inactive-secondary-color,#fff)}.e-form__indicators__indicator--state-inactive object,.e-form__indicators__indicator--state-inactive svg{fill:var(--e-form-steps-indicator-inactive-primary-color,#c2cbd2)}.e-form__indicators__indicator--state-active{color:var(--e-form-steps-indicator-active-primary-color,#39b54a);border-color:var(--e-form-steps-indicator-active-secondary-color,#fff)}.e-form__indicators__indicator--state-active [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none){background-color:var(--e-form-steps-indicator-active-secondary-color,#fff)}.e-form__indicators__indicator--state-active object,.e-form__indicators__indicator--state-active svg{fill:var(--e-form-steps-indicator-active-primary-color,#39b54a)}.e-form__indicators__indicator--state-completed{color:var(--e-form-steps-indicator-completed-secondary-color,#fff)}.e-form__indicators__indicator--state-completed [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none){background-color:var(--e-form-steps-indicator-completed-primary-color,#39b54a)}.e-form__indicators__indicator--state-completed .e-form__indicators__indicator__label{color:var(--e-form-steps-indicator-completed-primary-color,#39b54a)}.e-form__indicators__indicator--state-completed .e-form__indicators__indicator--shape-none{color:var(--e-form-steps-indicator-completed-primary-color,#39b54a);background-color:initial}.e-form__indicators__indicator--state-completed object,.e-form__indicators__indicator--state-completed svg{fill:var(--e-form-steps-indicator-completed-secondary-color,#fff)}.e-form__indicators__indicator__icon{width:var(--e-form-steps-indicator-padding,30px);height:var(--e-form-steps-indicator-padding,30px);font-size:var(--e-form-steps-indicator-icon-size);border-width:1px;border-style:solid;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;overflow:hidden;margin-bottom:10px}.e-form__indicators__indicator__icon img,.e-form__indicators__indicator__icon object,.e-form__indicators__indicator__icon svg{width:var(--e-form-steps-indicator-icon-size);height:auto}.e-form__indicators__indicator__icon .e-font-icon-svg{height:1em}.e-form__indicators__indicator__number{width:var(--e-form-steps-indicator-padding,30px);height:var(--e-form-steps-indicator-padding,30px);border-width:1px;border-style:solid;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin-bottom:10px}.e-form__indicators__indicator--shape-circle{border-radius:50%}.e-form__indicators__indicator--shape-square{border-radius:0}.e-form__indicators__indicator--shape-rounded{border-radius:5px}.e-form__indicators__indicator--shape-none{border:0}.e-form__indicators__indicator__label{text-align:center}.e-form__indicators__indicator__separator{width:100%;height:var(--e-form-steps-divider-width);background-color:#c2cbd2}.e-form__indicators--type-icon,.e-form__indicators--type-icon_text,.e-form__indicators--type-number,.e-form__indicators--type-number_text{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.e-form__indicators--type-icon .e-form__indicators__indicator__separator,.e-form__indicators--type-icon_text .e-form__indicators__indicator__separator,.e-form__indicators--type-number .e-form__indicators__indicator__separator,.e-form__indicators--type-number_text .e-form__indicators__indicator__separator{margin-top:calc(var(--e-form-steps-indicator-padding, 30px) / 2 - var(--e-form-steps-divider-width, 1px) / 2)}.elementor-field-type-hidden{display:none}.elementor-field-type-html{display:inline-block}.elementor-login .elementor-lost-password,.elementor-login .elementor-remember-me{font-size:.85em}.elementor-field-type-recaptcha_v3 .elementor-field-label{display:none}.elementor-field-type-recaptcha_v3 .grecaptcha-badge{z-index:1}.elementor-button .elementor-form-spinner{-webkit-box-ordinal-group:4;-ms-flex-order:3;order:3}.elementor-form .elementor-button>span{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-form .elementor-button .elementor-button-text{white-space:normal;-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0}.elementor-form .elementor-button svg{height:auto}.elementor-form .elementor-button .e-font-icon-svg{height:1em}.elementor-select-wrapper .select-caret-down-wrapper{position:absolute;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);inset-inline-end:10px;pointer-events:none;font-size:11px}.elementor-select-wrapper .select-caret-down-wrapper svg{display:unset;width:1em;aspect-ratio:unset;fill:currentColor}.elementor-select-wrapper .select-caret-down-wrapper i{font-size:19px;line-height:2}.elementor-select-wrapper.remove-before:before{content:""!important}</style> <form class="elementor-form" id="contact_form" method="post" name="Student Data">
+<input name="post_id" type="hidden" value="4730"/>
+<input name="form_id" type="hidden" value="a636af8"/>
+<input name="referer_title" type="hidden" value="Bhartipur - Sabse Tez Sabse Sateek"/>
+<div class="elementor-form-fields-wrapper elementor-labels-above">
+<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-field-required elementor-mark-required">
+<input aria-required="true" class="elementor-field elementor-size-sm elementor-field-textual" id="form-field-name" name="form_fields[name]" placeholder="Name" required="required" size="1" type="text"/>
+</div>
+<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required elementor-mark-required">
+<input aria-required="true" class="elementor-field elementor-size-sm elementor-field-textual" id="form-field-email" name="form_fields[email]" placeholder="Email" required="required" size="1" type="email"/>
+</div>
+<div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-field_06e01dd elementor-col-100 elementor-field-required elementor-mark-required">
+<input aria-required="true" class="elementor-field elementor-size-sm elementor-field-textual" id="form-field-field_06e01dd" name="form_fields[field_06e01dd]" pattern="[0-9()#&amp;+*-=.]+" placeholder="Mobile Number" required="required" size="1" title="Only numbers and phone characters (#, -, *, etc) are accepted." type="tel"/>
+</div>
+<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
+<textarea class="elementor-field-textual elementor-field elementor-size-sm" id="form-field-message" name="form_fields[message]" placeholder="Message" rows="4"></textarea> </div>
+<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
+<button class="elementor-button elementor-size-sm" id="[wp_objects_pdf]" type="submit">
+<span>
+<span class="elementor-button-icon">
+</span>
+<span class="elementor-button-text">Download Notification PDF</span>
+</span>
+</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-045b1da" data-element_type="column" data-id="045b1da">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-c74e0d3 elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image" data-element_type="widget" data-id="c74e0d3" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<img alt="" class="attachment-full size-full" height="600" loading="lazy" sizes="(max-width: 400px) 100vw, 400px" src="https://bhartipur.in/wp-content/uploads/2022/09/flyer-for-bhartipur.webp" srcset="https://bhartipur.in/wp-content/uploads/2022/09/flyer-for-bhartipur.webp 400w, https://bhartipur.in/wp-content/uploads/2022/09/flyer-for-bhartipur-200x300.webp 200w" width="400"/> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</section>
+</main>
+<div class="wpc-filters-overlay"></div>
+<link href="https://bhartipur.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3" id="elementor-icons-fa-regular-css" media="all" rel="stylesheet"/>
+<link href="https://bhartipur.in/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.7.7" id="e-animations-css" media="all" rel="stylesheet"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
